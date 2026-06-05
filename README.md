@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm maizamisman ✿</h1>
 
-<!--
-**maizamisman/maizamisman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineering Student</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiences
+
+- UMHackathon 2026
+- More to come!
+
+---
+
+### Connect with me:
+
+<p>
+  <a href="https://gmail.com/maizamisman">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+  <a href="https://instagram.com/maizayrin_">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+</p>
+
+---
+
+### Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,python,vscode" />
+</p>
+
+---
+
+### About me
+
+- 🌱 Currently majoring in Software Engineering at the Universiti Malaya
+- 💻 Interested in software engineering and web development  
+- ✨ Love building cute but useful projects  
+- 📫 Reach me at: maizamisman@gmail.com
