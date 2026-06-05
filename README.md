@@ -9,12 +9,11 @@
 - UMHackathon 2026
 - More to come!
 
----
 
 ### Connect with me:
 
 <p>
-  <a href="https://gmail.com/maizamisman">
+  <a href="mailto:maizamisman@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
   <a href="https://instagram.com/maizayrin_">
@@ -22,7 +21,6 @@
   </a>
 </p>
 
----
 
 ### Languages and Tools:
 
@@ -30,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,python,vscode" />
 </p>
 
----
 
 ### About me
 
