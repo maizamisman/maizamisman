@@ -1,13 +1,14 @@
-<h1 align="center">Hey there! I'm maizamisman ✿</h1>
+<h1 align="center">✿ maizamisman ✿</h1>
 
 <h3 align="center">Software Engineering Student</h3>
 
----
+
 
 ### Experiences
 
 - UMHackathon 2026
 - More to come!
+
 
 
 ### Connect with me:
@@ -22,11 +23,13 @@
 </p>
 
 
+
 ### Languages and Tools:
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,python,vscode" />
 </p>
+
 
 
 ### About me
