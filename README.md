@@ -21,10 +21,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
 </p>
-  <a href="https://instagram.com/maizayrin_">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-  </a>
-</p>
 
 
 
