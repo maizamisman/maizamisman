@@ -17,6 +17,10 @@
   <a href="mailto:maizamisman@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+</p>
   <a href="https://instagram.com/maizayrin_">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
